@@ -11,3 +11,9 @@ Una empresa de productos médicos está interesada en atraer y mantener al mejor
 
 
 Se espera que el archivo empleadosRETO.csv esté cargado en el ambiente de colaboratory. Existe una **fecha incorrecta** en el archivo original, el registro dice 30 de febrero de 2012, se modificó a **29 de febrero de 2012**.
+
+---
+Archivos en repositorio:
+- Archivo pdf con el código fuente (RetoEmpleados.pdf)
+- Archivo con el código fuente ambiente colab.google.com (RetoEmpleados.ipynb)
+- Archivo resultado de la ejecución
